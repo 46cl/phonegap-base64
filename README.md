@@ -1,3 +1,6 @@
+Note: this fork clears line feeds in the generated base64 string, and does not prefix it with the dataURI scheme.
+
+
 Base64 plugin for Cordova / PhoneGap
 ======================================================
 
